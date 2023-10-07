@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.deepPurple,
-        title: const Text('MultiPlatform App'),
+        title: const Text('MultiPlatform App Example'),
       ),
       body: Center(
         child: SingleChildScrollView(
