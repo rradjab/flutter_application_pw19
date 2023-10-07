@@ -1,0 +1,13 @@
+# ninja log v5
+1	615	718227510	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.cpp.o	b78cd4578db4fe97
+617	751	718227510	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/x86_64/libsimple.so	b5e422d898f0db13
+4	609	718227721	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.cpp.o	b78cd4578db4fe97
+610	731	718227721	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/x86_64/libsimple.so	b5e422d898f0db13
+3	617	718228217	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.cpp.o	b78cd4578db4fe97
+617	741	718228217	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/x86_64/libsimple.so	b5e422d898f0db13
+1	90	718228989	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.c.o	acd316df087877b6
+90	224	718228989	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/x86_64/libsimple.so	7988a01e82e2f358
+2	76	718229249	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.c.o	acd316df087877b6
+77	207	718229249	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/x86_64/libsimple.so	7988a01e82e2f358
+2	75	718229328	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.c.o	acd316df087877b6
+76	188	718229328	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/x86_64/libsimple.so	7988a01e82e2f358

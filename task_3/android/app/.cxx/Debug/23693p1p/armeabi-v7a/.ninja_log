@@ -1,0 +1,13 @@
+# ninja log v5
+1	679	718227506	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.cpp.o	f3bafc67e9d49203
+681	814	718227506	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/armeabi-v7a/libsimple.so	eee052f65ef4c691
+3	705	718227719	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.cpp.o	f3bafc67e9d49203
+705	839	718227719	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/armeabi-v7a/libsimple.so	eee052f65ef4c691
+3	682	718228215	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.cpp.o	f3bafc67e9d49203
+682	807	718228215	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/armeabi-v7a/libsimple.so	eee052f65ef4c691
+0	86	718228988	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.c.o	32901a467cf3d4f7
+87	217	718228988	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/armeabi-v7a/libsimple.so	66bcacad07a682d0
+2	74	718229248	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.c.o	32901a467cf3d4f7
+74	191	718229248	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/armeabi-v7a/libsimple.so	66bcacad07a682d0
+3	72	718229328	CMakeFiles/simple.dir/C_/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/src/simple.c.o	32901a467cf3d4f7
+72	194	718229328	C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/build/app/intermediates/cxx/Debug/23693p1p/obj/armeabi-v7a/libsimple.so	66bcacad07a682d0

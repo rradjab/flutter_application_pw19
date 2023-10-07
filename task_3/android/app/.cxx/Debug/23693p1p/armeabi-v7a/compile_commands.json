@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/ra/Documents/FlutterProject/flutter_application_pw19/task_3/android/app/.cxx/Debug/23693p1p/armeabi-v7a",
+  "command": "C:\\Users\\ra\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/ra/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/ra/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dsimple_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles\\simple.dir\\C_\\Users\\ra\\Documents\\FlutterProject\\flutter_application_pw19\\task_3\\src\\simple.c.o -c C:\\Users\\ra\\Documents\\FlutterProject\\flutter_application_pw19\\task_3\\src\\simple.c",
+  "file": "C:\\Users\\ra\\Documents\\FlutterProject\\flutter_application_pw19\\task_3\\src\\simple.c"
+}
+]
